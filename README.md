@@ -32,7 +32,7 @@ Yazapishu Record & Transcribe is a powerful and free screen recording and transc
 
 If you encounter any issues or have suggestions, feel free to open an issue on GitHub or contact our support team. Your feedback helps us improve Yazapishu Record & Transcribe!
 
-[Download on SourceForge](https://sourceforge.net/projects/yazapishu-record-transcribe/)
+
 
 ---
 
