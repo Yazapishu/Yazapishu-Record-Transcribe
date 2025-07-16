@@ -17,7 +17,9 @@ Yazapishu Record & Transcribe is a powerful and free screen recording and transc
 2. Run the installer and follow the on-screen instructions.
 3. Launch the program and start recording!
 
-![screen](https://github.com/user-attachments/assets/cd77cb5c-933c-458f-958e-9c7fdbe5177d)
+
+
+<img width="1379" height="880" alt="image" src="https://github.com/user-attachments/assets/2cdd9688-e68b-4d47-9543-48a721c821ad" />
 
 ## How to Use
 
